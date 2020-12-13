@@ -1,1 +1,11 @@
 theme: jekyll-theme-leap-day
+title: Trial for MMS142
+description: Create for practice
+show_downloads: True
+navigation:
+  - title: Home
+    url: /
+  - title: Report
+    url: report
+  - title: Members' Page
+    url: memberslist
