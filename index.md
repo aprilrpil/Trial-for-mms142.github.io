@@ -1,6 +1,11 @@
 ---
-layout: default
+# Online News Sites as Disruptive Technology
 ---
+## Navigation
+| [Home](home) | [Report](report) |
+|:---:|:---:|
+-------------
+
 # Online News Sites as Disruptive Technology
 ## By Group L of MMS 142 A.Y. 2020-2021 1st Trimester
 Our group is composed of seven (7) members, namely:
