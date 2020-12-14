@@ -1,5 +1,12 @@
 # Online News Sites as Disruptive Technology
 
+
+
+## Navigation
+| [Home](home) | [Report](report) |
+|:---:|:---:|
+
+---
 ## GROUP L:
 - DI ROCCO, MAJELLA P (2013-81801)
 - PIL, APRIL ROSE B. (2014-67661)
