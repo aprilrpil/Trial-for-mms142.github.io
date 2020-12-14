@@ -1,9 +1,9 @@
 ---
 # Online News Sites as Disruptive Technology
----
+
 ## Navigation
 | [Home](home) | [Report](report) |
-|:---:|:---:|
+| :---: | :---: |
 -------------
 
 
