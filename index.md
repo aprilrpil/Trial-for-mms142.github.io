@@ -6,7 +6,7 @@
 |:---:|:---:|
 -------------
 
-# Online News Sites as Disruptive Technology
+
 ## By Group L of MMS 142 A.Y. 2020-2021 1st Trimester
 Our group is composed of seven (7) members, namely:
 - DI ROCCO, MAJELLA P (2013-81801) (`@mjdr3619`)
