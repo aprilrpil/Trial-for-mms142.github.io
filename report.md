@@ -3,7 +3,7 @@
 
 
 ## Navigation
-| [Home](home) | [Report](report) |
+| [Home](index) | [Report](report) |
 |:---:|:---:|
 
 ---
