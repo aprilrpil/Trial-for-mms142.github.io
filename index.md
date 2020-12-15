@@ -3,7 +3,7 @@
 
 ## Navigation
 | [Home](index) | [Report](report) |
-| :---: | :---: |
+|---|---|
 
 
 ## By Group L of MMS 142 A.Y. 2020-2021 1st Trimester
