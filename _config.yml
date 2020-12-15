@@ -1,7 +1,7 @@
-theme: jekyll-theme-leap-day
+xtheme: jekyll-theme-leap-day
 title: Trial for MMS142
 description: This is a webpage which discusses  how the online distribution of news through online sites, with additional mention to social media, is now a new and common means for how publishers disseminate information to the public, and how these people receive them.
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
